@@ -6,11 +6,4 @@ The client interface will have three primary functions;
 
 1. Start new batch
 2. Add consignment
-3. End current batch
-
-
-# PROCESS
-
-## Step 1:
-
-"Create a new daily batch" - this to me indicates a batch class is needed first and foremost 
+3. End current batch 
